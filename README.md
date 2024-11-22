@@ -27,3 +27,7 @@ This project is licensed under the MIT License.
 1. **Clone the Repository:**
    ```bash
    git clone [invalid URL removed]
+## Link: https://apex.oracle.com/pls/apex/r/cybergeek/vintage-shop/home?session=0
+## Defaul Credentials:
+  ```bash
+[Redacted]
